@@ -1,5 +1,5 @@
 # YTech NZ website
-Frontend repo for YTech NZ website w/ typescript + sass.
+Frontend repo for YTech NZ website w/ typescript + sass, following best practices. Refer to the wiki for queries or contact John or Kenneth
 
 ## Run Website
 Ensure all dependencies are installed
